@@ -1,5 +1,5 @@
 /*
-This is a sample from my movie analysis project
+This is a sample from my movie and track analysis project
 */
 
 -- Select the albums with at least 8 tracks and with the word 'Rock' and its derivatives in their titles. In the end, print the average number of tracks in these albums.
